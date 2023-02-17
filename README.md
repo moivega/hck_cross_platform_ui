@@ -4,4 +4,4 @@
 ## Components
 ### Different roles and responsibilities:
 #### analyst - programmer - developer
-#### Treatment-algorithmic processing of assets and user actions
+##### Treatment-algorithmic processing of assets and user actions
