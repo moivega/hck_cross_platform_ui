@@ -5,3 +5,4 @@
 ### Different roles and responsibilities:
 #### analyst - programmer - developer
 ##### Treatment-algorithmic processing of assets and user actions (functions/functionalities)
+###### https://www.java.com/
