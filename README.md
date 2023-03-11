@@ -1,7 +1,7 @@
-## Cross Platform Desktop Interfaces: Performance and Other Things
-### Analysis and Design
-### Algorithms
-### Components
+## Cross Platform Desktop Interfaces: Performance And Other Things
+### A. Analysis and Design
+### B. Algorithms
+### C. Components
 #### Different roles and responsibilities:
 ##### 1. Analyst
 ##### 2. Programmer
