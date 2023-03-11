@@ -3,6 +3,8 @@
 ### Algorithms
 ### Components
 #### Different roles and responsibilities:
-##### analyst - programmer - developer
+##### 1. Analyst
+##### 2. Programmer
+##### 3. Developer
 ###### Treatment-algorithmic processing of assets and user actions (functions/functionalities)
 ###### https://www.java.com - Not suitable for freelancers
