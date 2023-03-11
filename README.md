@@ -1,4 +1,4 @@
-# Cross Platform Desktop Interfaces: Performance and Other Things
+## Cross Platform Desktop Interfaces: Performance and Other Things
 ### Analysis and Design
 ### Algorithms
 ### Components
